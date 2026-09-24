@@ -17,4 +17,4 @@ Healthcare organizations frequently experience revenue leakage due to denied cla
 * **Financial Color Psychology:** Green universally implies positive profit. Because this dashboard strictly tracks revenue loss and pain points, green was explicitly excluded. The UI utilizes a strict corporate grayscale palette with a single Crimson (`#B33939`) accent color to draw executive attention directly to the most critical leakage points via pre-attentive processing.
 
 ## Dashboard 
-![Executive Dashboard](assets/dashboard_screenshot.png)
+![Executive Dashboard](assets/Revenue%20Cycle%20Analytics-denial%20remediation.png)
